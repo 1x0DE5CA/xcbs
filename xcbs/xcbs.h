@@ -13,7 +13,7 @@
 
 #elif __linux__
 
-// probably something else...
+#include <unistdh>
 
 #endif
 
