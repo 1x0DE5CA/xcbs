@@ -45,11 +45,10 @@ Console.WriteLine("Hello, World!");
 
 ## TODO
 
-- [ ] Finish TODO list.
+- [ ] Finish README.md
+- [ ] Add other proper points to the TODO list.
 - [x] shit pants
 - [x] piss pants
-- [ ] kill myself
-- [ ] asdf
 
 ## Planned features
 
