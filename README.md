@@ -45,6 +45,7 @@ Console.WriteLine("Hello, World!");
 
 ## TODO
 
+- [ ] Finish TODO list.
 - [x] shit pants
 - [x] piss pants
 - [ ] kill myself
