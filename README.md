@@ -3,7 +3,7 @@
 [![CMake - Windows, Linux (GCC, CLang)](https://github.com/xc0ff/xcbs/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/xc0ff/xcbs/actions/workflows/cmake-multi-platform.yml)
 
 > [!CAUTION]
-> This project in it's early development stages, so expect a lot of missing features and bugs.
+> This project is in it's early development stages, so expect a lot of missing features and bugs.
 
 Essentially, a little (I guess?) project of a solo dev (me). I work on it to get better at programming in C and C++, and to get better with building tools, organizing and maintaining a project, and also to get better with all the github fuss. Now, to the actual description.
 
