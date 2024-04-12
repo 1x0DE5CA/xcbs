@@ -5,11 +5,11 @@
 > [!IMPORTANT]
 > I have a cinnabon bun that I VILL eat and no one can stop me.
 
-Essentially, a pet-project of a solo dev (me). I work on it to get better at programming in C and C++, and to get better with building tools, organizing and maintaining a project, and also to get better with all the github fuss. Now, to the actual description.
+Essentially, a little (I guess?) project of a solo dev (me). I work on it to get better at programming in C and C++, and to get better with building tools, organizing and maintaining a project, and also to get better with all the github fuss. Now, to the actual description.
 
 ## Oh wait, what is this?
 
-XCBS is a small utility program that checks XBOX controller's battery status on `GUIDE` button press. It is *(being)* designed for use under both Linux and Windwos platforms. The project is maintained by me, a not so good developer, so expect bugs and whatnot.
+`xcbs` is a small utility program that checks XBOX controller's battery status on `GUIDE` button press. It is *(being)* designed for use under both Linux and Windows platforms. The project is maintained by me, a not so good developer, so expect bugs and whatnot.
 As of right now, I am developing a Windows part of the program.
 
 Please kindly take a look at my TODO and planned features lists!
@@ -29,10 +29,10 @@ That's where the fun begins.
 #### Linux
 
 ```c
-#include <stio.h>
+#include <stdio.h>
 int main() {
   printf("look ma! i'm a real programmer!! haha! mom? oh god please no\n");
-  reutrn 0;
+  return 0;
 }
 ```
 
